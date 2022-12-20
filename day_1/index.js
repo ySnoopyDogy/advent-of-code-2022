@@ -12,10 +12,3 @@ calorias.sort((a,b) =>  b - a);
 console.log('Maior Caloria: ', calorias[0])
 
 console.log('Soma Maiores Calorias', calorias[0] + calorias[1] + calorias[2])
-
-
-
-
-
-
-
